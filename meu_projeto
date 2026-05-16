@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\Aluno\\app\\meu_projeto\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("core","core",1,0,"0 B",1778889029,"5/15/26, 8:50:29 PM");</script>
+<script>addRow("meu_projeto","meu_projeto",1,0,"0 B",1778884297,"5/15/26, 7:31:37 PM");</script>
+<script>addRow("db.sqlite3","db.sqlite3",0,0,"0 B",1778887897,"5/15/26, 8:31:37 PM");</script>
+<script>addRow("manage.py","manage.py",0,689,"689 B",1778884155,"5/15/26, 7:29:15 PM");</script>
